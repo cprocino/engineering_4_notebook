@@ -19,8 +19,7 @@
 this was a simple assignment that had us have a code output a countdown from 10 to 0 and say lift off at the end.
 ### Evidence 
 
-
-
+![](images\launchpad1.gif)
 
 ### Code
 [code](raspberry-pi/countdown.py).
