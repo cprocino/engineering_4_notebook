@@ -2,11 +2,34 @@
 
 &nbsp;
 
+
+
+
 ## Table of Contents
+* [launchpad](#launchpad)
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
+
+## launchpad
+
+### Assignment Description
+
+this was a simple assignment that had us have a code output a countdown from 10 to 0 and say lift off at the end.
+### Evidence 
+
+Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+
+### Code
+Give me a link to your code. [code](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py).
+
+### Reflection
+
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+
+
+
 
 ## Raspberry_Pi_Assignment_Template
 
