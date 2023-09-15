@@ -46,7 +46,7 @@ this was the second in a siries of assignments about coding an countdown to laun
 ![gif](https://github.com/cprocino/engineering_4_notebook/blob/main/images/launchpad1.gif)
 
 ### Code
-[code](raspberry-pi/countdown.py).
+[code](raspberry-pi/launpad2.py).
 
 ### Reflection
 
