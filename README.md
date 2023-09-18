@@ -16,6 +16,7 @@
 ### Table of Contents
 * [launchpad1](#launchpad1)
 * [launchpad2](#launchpad2)
+* [launchpad3](#launchpad3)
 
 ## launchpad1
 
@@ -52,6 +53,22 @@ this was the second in a siries of assignments about coding an countdown to laun
 
 This was an pretty easy assignment despite my lack of coding ability, the hard part was making sure that i could document it in the right place. 
 
+
+## launchpad1
+
+### Assignment Description
+
+This was a simple assignment that had us have a code output a countdown from 10 to 0 and say lift off at the end.
+### Evidence 
+
+![gif](https://github.com/cprocino/engineering_4_notebook/blob/main/images/launchpad1.gif)
+
+### Code
+[code](raspberry-pi/countdown.py).
+
+### Reflection
+
+This was an pretty easy assignment despite my lack of coding ability, the hard part was making sure that i could document it in the right place. 
 
 
 
