@@ -60,7 +60,7 @@ this assignment made us have a light blink during the countdown, it was relative
 This was a assignment that had us have a code output a countdown from 10 to 0 after a button was pressed. 
 ### Evidence 
 
-![gif](https://github.com/cprocino/engineering_4_notebook/blob/main/images/launchpad1.gif)
+![gif](images/launchpad3.gif)
 
 ### Code
 [code](raspberry-pi/launchpad3.py).
