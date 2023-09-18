@@ -51,20 +51,19 @@ this was the second in a siries of assignments about coding an countdown to laun
 
 ### Reflection
 
-This was an pretty easy assignment despite my lack of coding ability, the hard part was making sure that i could document it in the right place. 
+this assignment made us have a light blink during the countdown, it was relatively easy as i only needed to modify the code before and add some LED code to make this work. As I was behind in work due to sickness it was nice that mason divers could help out with the LED setup code. 
 
-
-## launchpad1
+## launchpad3
 
 ### Assignment Description
 
-This was a simple assignment that had us have a code output a countdown from 10 to 0 and say lift off at the end.
+This was a assignment that had us have a code output a countdown from 10 to 0 after a button was pressed. 
 ### Evidence 
 
 ![gif](https://github.com/cprocino/engineering_4_notebook/blob/main/images/launchpad1.gif)
 
 ### Code
-[code](raspberry-pi/countdown.py).
+[code](raspberry-pi/launchpad3.py).
 
 ### Reflection
 
