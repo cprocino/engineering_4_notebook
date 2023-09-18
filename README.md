@@ -25,7 +25,7 @@
 This was a simple assignment that had us have a code output a countdown from 10 to 0 and say lift off at the end.
 ### Evidence 
 
-![gif](https://github.com/cprocino/engineering_4_notebook/blob/main/images/launchpad1.gif)
+![gif]>(images/launchpad1.gif)
 
 ### Code
 [code](raspberry-pi/countdown.py).
@@ -44,7 +44,7 @@ this was the second in a siries of assignments about coding an countdown to laun
 
 ### Evidence 
 
-![gif](https://github.com/cprocino/engineering_4_notebook/blob/main/images/launchpad1.gif)
+![gif](images/launchpad2.gif)
 
 ### Code
 [code](raspberry-pi/launpad2.py).
