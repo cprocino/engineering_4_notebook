@@ -5,7 +5,7 @@
 
 
 
-## Table of Contents
+# Table of Contents
 * [launchpad](#launchpad)
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
@@ -13,6 +13,11 @@
 &nbsp;
 
 ## launchpad
+### Table of Contents
+* [launchpad1](#launchpad1)
+* [launchpad2](#launchpad2)
+
+## launchpad1
 
 ### Assignment Description
 
@@ -23,6 +28,25 @@ This was a simple assignment that had us have a code output a countdown from 10 
 
 ### Code
 [code](raspberry-pi/countdown.py).
+
+### Reflection
+
+This was an pretty easy assignment despite my lack of coding ability, the hard part was making sure that i could document it in the right place. 
+
+
+
+## launchpad2
+
+### Assignment Description
+
+this was the second in a siries of assignments about coding an countdown to launch for a pico board. This one added on the requierment to have a LED flash during the countdown and a different LED stay on after the countdown reached zero. 
+
+### Evidence 
+
+![gif](https://github.com/cprocino/engineering_4_notebook/blob/main/images/launchpad1.gif)
+
+### Code
+[code](raspberry-pi/launpad2.py).
 
 ### Reflection
 
