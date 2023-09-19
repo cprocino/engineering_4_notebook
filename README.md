@@ -26,7 +26,7 @@ This was a simple assignment that had us have a code output a countdown from 10 
 ### Evidence 
 
 ![gif](images/launchpad1.gif)
-<gif src="images/launchpad1.gif" height="300">
+
 
 ### Code
 [code](raspberry-pi/countdown.py).
@@ -46,6 +46,9 @@ this was the second in a siries of assignments about coding an countdown to laun
 ### Evidence 
 
 ![gif](images/launchpad2.gif)
+
+### wiring diagram
+
 
 ### Code
 [code](raspberry-pi/launpad2.py).
