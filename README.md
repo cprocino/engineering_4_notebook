@@ -17,6 +17,7 @@
 * [launchpad1](#launchpad1)
 * [launchpad2](#launchpad2)
 * [launchpad3](#launchpad3)
+* [launchpad4](#launchpad4)
 
 ## launchpad1
 
@@ -66,13 +67,34 @@ This was a assignment that had us have a code output a countdown from 10 to 0 af
 
 ![gif](images/launchpad3.gif)
 
+### wiring diagram
+ ![jpg](images/launchwire3.jpg)
+
 ### Code
 [code](raspberry-pi/launchpad3.py).
 
 ### Reflection
 
-This was an pretty easy assignment despite my lack of coding ability, the hard part was making sure that i could document it in the right place. 
+this little trick of coding was very simple, the wiring was about as simple as it comes but the code needed a while loop and to pull up the button but both proved easier than they first seemed. 
 
+## launchpad4
+
+### Assignment Description
+
+this took all three of the last assignments and added them together. We had to have the button activate the countdown and the lights.
+### Evidence 
+
+![gif](images/launchpad4.gif)
+
+### wiring diagram
+ ![jpg](images/launchwire4.jpg)
+
+### Code
+[code](raspberry-pi/launchpad3.py).
+
+### Reflection
+
+the final launchpad assignment may have been the easiest as all i needed to do was copy and paste the code from the other ones. the challenge was making sure all the little complex things were in the right place and also repacing a broken button. 
 
 
 
