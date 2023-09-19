@@ -48,7 +48,7 @@ this was the second in a siries of assignments about coding an countdown to laun
 ![gif](images/launchpad2.gif)
 
 ### wiring diagram
-
+ ![jpg](images/launchwire2.jpg)
 
 ### Code
 [code](raspberry-pi/launpad2.py).
