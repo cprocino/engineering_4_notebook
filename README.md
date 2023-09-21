@@ -33,7 +33,7 @@ This was a simple assignment that had us have a code output a countdown from 10 
 
 ### Reflection
 
-This was an pretty easy assignment despite my lack of coding ability, the hard part was making sure that i could document it in the right place. 
+This was an pretty easy assignment despite my lack of coding ability. The simple trick was making a for loop work in a range where it counted down, I my first iteration I had a for loop run ten times and and inside the for loop I put a simple subtraction and print method. For the later assignments i would change this to a more effiecent system of a for loop in a range of (10, 0, -1). I tried both for this assignment but desided on my first code because i understanded it better. Once i relaerned the syntax of the for loops this was a very achieveble assgnment. 
 
 
 
@@ -55,7 +55,7 @@ this was the second in a siries of assignments about coding an countdown to laun
 
 ### Reflection
 
-this assignment made us have a light blink during the countdown, it was relatively easy as i only needed to modify the code before and add some LED code to make this work. As I was behind in work due to sickness it was nice that mason divers could help out with the LED setup code. 
+this assignment made us have a light blink during the countdown, it was relatively easy as i only needed to modify the code before and add some LED code to make this work. As I was behind in work due to sickness it was nice that mason divers could help out with the LED setup code. The simple new thing to learn was ro figure out how to code the pins to the wires as the pico has new syntax. The saving grace was CNRL+P which allows you to open the pin map and then connect the right pins to the right places. Once that was acomplished the assignment was as easy as putting LED equal to true or false inside or out of the loop I had built in in the first assignment. 
 
 ## launchpad3
 
@@ -74,7 +74,7 @@ This was a assignment that had us have a code output a countdown from 10 to 0 af
 
 ### Reflection
 
-this little trick of coding was very simple, the wiring was about as simple as it comes but the code needed a while loop and to pull up the button but both proved easier than they first seemed. 
+this little trick of coding was very simple, the wiring was about as simple as it comes but the code needed a while loop and to pull up the button but both proved easier than they first seemed. The button pull was the only difficult part as the wiring was extremely easy b/c the picos are more advanced than previous boards. The code needed a while loop to always check an if statement which is still realtively simple but requiered some trial and error. 
 
 ## launchpad4
 
@@ -93,7 +93,7 @@ this took all three of the last assignments and added them together. We had to h
 
 ### Reflection
 
-the final launchpad assignment may have been the easiest as all i needed to do was copy and paste the code from the other ones. the challenge was making sure all the little complex things were in the right place and also repacing a broken button. 
+the final launchpad assignment may have been the easiest as all i needed to do was copy and paste the code from the other ones. the challenge was making sure all the little complex things were in the right place and also repacing a broken button. The engineering challenge was largely just putting all of the stuff on one board and making sure all the wires, LEDs, resistors and the button were properly wired in. The code was just copy pasting the previos code together, and deciding whether or not they were inside the while loop.  
 
 
 
