@@ -8,8 +8,47 @@
 # Table of Contents
 * [launchpad](#launchpad)
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
+* [Crash Avoidance](#Avoidance)
 
 &nbsp;
+
+## Avoidance
+### Table of Contents
+* [Avoidance1](#Avoidance1)
+
+
+## Avoidance1
+
+### Assignment Description
+
+This assignment was the first of the crash avoidance siries. It introduced us to the MPU6050 Accelerometer and all we had to do was wire it up and have it print out the  X Y and Z values. 
+### Evidence 
+
+![gif](images/launchpad1.gif)
+
+
+### Code
+[code](raspberry-pi/avoid1.py).
+
+### Reflection
+
+This was an pretty easy assignment despite my lack of coding ability. The simple trick was making a for loop work in a range where it counted down, I my first iteration I had a for loop run ten times and and inside the for loop I put a simple subtraction and print method. For the later assignments i would change this to a more effiecent system of a for loop in a range of (10, 0, -1). I tried both for this assignment but desided on my first code because i understanded it better. Once i relaerned the syntax of the for loops this was a very achieveble assgnment. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## launchpad
 ### Table of Contents
