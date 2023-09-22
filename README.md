@@ -25,7 +25,7 @@
 This assignment was the first of the crash avoidance siries. It introduced us to the MPU6050 Accelerometer and all we had to do was wire it up and have it print out the  X Y and Z values. 
 ### Evidence 
 
-![gif](images/launchpad1.gif)
+![gif](images/avoid1.gif)
 
 
 ### wiring diagram
