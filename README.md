@@ -8,10 +8,53 @@
 # Table of Contents
 * [launchpad](#launchpad)
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
+* [Crash Avoidance](#Avoidance)
 
 &nbsp;
 
-## launchpad
+# Avoidance
+
+### Table of Contents
+* [Avoidance1](#Avoidance1)
+
+
+## Avoidance1
+
+### Assignment Description
+
+This assignment was the first of the crash avoidance siries. It introduced us to the MPU6050 Accelerometer and all we had to do was wire it up and have it print out the  X Y and Z values. 
+### Evidence 
+
+![gif](images/launchpad1.gif)
+
+
+### wiring diagram
+ ![jpg](images/launchwire4.jpg)
+
+### Code
+[code](raspberry-pi/avoid1.py).
+
+### Reflection
+
+This assignement introduce me to en entirely new system. The new MPU6050 Accelerometer/Gyro device was new but not difficult to understand and with the wiring for the project provided and the set up was easy. The code wsa a bit harder and required a new coding concept in this class, that being Arrays. This was not too difficult because i had covered them in other CS classes and the new syntax was pretty much the same (mpu.acceleration[0]). I just need to remeber to count from 0.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# launchpad
 ### Table of Contents
 * [launchpad1](#launchpad1)
 * [launchpad2](#launchpad2)
