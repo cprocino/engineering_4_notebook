@@ -12,7 +12,8 @@
 
 &nbsp;
 
-## Avoidance
+# Avoidance
+
 ### Table of Contents
 * [Avoidance1](#Avoidance1)
 
@@ -27,12 +28,15 @@ This assignment was the first of the crash avoidance siries. It introduced us to
 ![gif](images/launchpad1.gif)
 
 
+### wiring diagram
+ ![jpg](images/launchwire4.jpg)
+
 ### Code
 [code](raspberry-pi/avoid1.py).
 
 ### Reflection
 
-This was an pretty easy assignment despite my lack of coding ability. The simple trick was making a for loop work in a range where it counted down, I my first iteration I had a for loop run ten times and and inside the for loop I put a simple subtraction and print method. For the later assignments i would change this to a more effiecent system of a for loop in a range of (10, 0, -1). I tried both for this assignment but desided on my first code because i understanded it better. Once i relaerned the syntax of the for loops this was a very achieveble assgnment. 
+This assignement introduce me to en entirely new system. The new MPU6050 Accelerometer/Gyro device was new but not difficult to understand and with the wiring for the project provided and the set up was easy. The code wsa a bit harder and required a new coding concept in this class, that being Arrays. This was not too difficult because i had covered them in other CS classes and the new syntax was pretty much the same (mpu.acceleration[0]). I just need to remeber to count from 0.   
 
 
 
@@ -50,7 +54,7 @@ This was an pretty easy assignment despite my lack of coding ability. The simple
 
 
 
-## launchpad
+# launchpad
 ### Table of Contents
 * [launchpad1](#launchpad1)
 * [launchpad2](#launchpad2)
