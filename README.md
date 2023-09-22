@@ -29,7 +29,7 @@ This assignment was the first of the crash avoidance siries. It introduced us to
 
 
 ### wiring diagram
- ![jpg](images/launchwire4.jpg)
+ ![jpg](images/avoidwire1.jpg)
 
 ### Code
 [code](raspberry-pi/avoid1.py).
