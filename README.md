@@ -18,6 +18,8 @@
 
 * [Avoidance1](#Avoidance1)
 * [Avoidance2](#Avoidance2)
+* [Avoidance3](#Avoidance3)
+
 
 
 ## Avoidance1
@@ -61,6 +63,25 @@ This assignment was the second of the crash avoidance siries. It had us creat a 
 ### Reflection
 
 this assignment was slightly more difficult, it added two new things for us to do; make a battery powered system and code a system that would turn on a led. The challennge for me was making sure the wiring was correct as the code only needed some if and elif (else if) statements, the wiring required me to use old things on this board like SCL and SDA but also some new things like the VSYS to power the board. Overall this project was still relatively easy but still required some trouble shooting of the LEDS and board to discover the flaws in my wiring and code. The biggest issue for me in this project was making sure that i was uploading code in the right way and that i was use LEDs that work. 
+
+
+## Avoidance3
+
+### Assignment Description
+
+This assignment was the third of the crash avoidance siries. It had us create a battery powered system that had all the previous requierments of the the last assignment plus display the data on a mini led screen. 
+### Evidence 
+
+![gif](images/avoid3.gif)
+
+
+### wiring diagram
+ ![jpg](images/avoidwire1.jpg)
+
+### Code
+[code](raspberry-pi/avoid3.py).
+
+### Reflection
 
 
 
