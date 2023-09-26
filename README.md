@@ -82,7 +82,7 @@ This assignment was the third of the crash avoidance siries. It had us create a 
 [code](raspberry-pi/avoid3.py).
 
 ### Reflection
-
+This was a realatively easy project after I figured out how to use the led screen. I looked over Sam Funks repo (https://github.com/sfunk02/Engineering_4_Notebook#crash_avoidance_part_3) to help me understand some of the formatting on the led screen, but the majority of the code came from the previous project. I then commented the code using ChatGPT to save some busy work but then had to edit it because it made some errors so is had to go over it all again. If i was to do this again I would look at other peoples repos before i started to try and wing the code to the screen (i tried print.screen at one point ) but overall this project was not to bad. 
 
 
 
