@@ -58,7 +58,7 @@ This assignment was the second of the crash avoidance siries. It had us creat a 
  ![jpg](images/avoidwire1.jpg)
 
 ### Code
-[code](raspberry-pi/avoid2.py).
+[code](raspberry-pi/avoid3.py).
 
 ### Reflection
 
