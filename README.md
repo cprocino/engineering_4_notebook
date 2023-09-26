@@ -15,7 +15,9 @@
 # Avoidance
 
 ### Table of Contents
+
 * [Avoidance1](#Avoidance1)
+* [Avoidance2](#Avoidance2)
 
 
 ## Avoidance1
@@ -40,8 +42,25 @@ This assignement introduce me to en entirely new system. The new MPU6050 Acceler
 
 
 
+## Avoidance2
+
+### Assignment Description
+
+This assignment was the second of the crash avoidance siries. It had us creat a battery powered system that turned on a warning light when it was turned more than 90 degrees 
+### Evidence 
+
+![gif](images/avoid2.gif)
 
 
+### wiring diagram
+ ![jpg](images/avoidwire1.jpg)
+
+### Code
+[code](raspberry-pi/avoid2.py).
+
+### Reflection
+
+this assignment was slightly more difficult, it added two new things for us to do; make a battery powered system and code a system that would turn on a led. The challennge for me was making sure the wiring was correct as the code only needed some if and elif (else if) statements, the wiring required me to use old things on this board like SCL and SDA but also some new things like the VSYS to power the board. Overall this project was still relatively easy but still required some trouble shooting of the LEDS and board to discover the flaws in my wiring and code. The biggest issue for me in this project was making sure that i was uploading code in the right way and that i was use LEDs that work. 
 
 
 
