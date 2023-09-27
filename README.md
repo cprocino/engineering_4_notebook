@@ -55,7 +55,7 @@ This assignment was the second of the crash avoidance siries. It had us creat a 
 
 
 ### wiring diagram
- ![jpg](images/avoidwire1.jpg)
+ ![jpg](images/avoidwire2.jpg)
 
 ### Code
 [code](raspberry-pi/avoid3.py).
@@ -76,7 +76,8 @@ This assignment was the third of the crash avoidance siries. It had us create a 
 
 
 ### wiring diagram
- ![jpg](images/avoidwire1.jpg)
+ ![jpg](images/avoidwire3.jpg)
+ please enjoy the photo bomb
 
 ### Code
 [code](raspberry-pi/avoid3.py).
