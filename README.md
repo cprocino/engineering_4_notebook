@@ -9,8 +9,25 @@
 * [launchpad](#launchpad)
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [Crash Avoidance](#Avoidance)
+* [beam](#beam)
 
 &nbsp;
+# beam 
+
+### Assignment Description
+
+this was a CAD assignment where we designed a beam under spesific qualifactions in order to hold the most amount of wieght 
+### Evidence 
+
+ ![png](images/.gitkeep)
+
+### Reflection
+
+chris and Zach looked at the winning design from the previous year as a basis of design. Tomas Slinglove and Nathanial had a disign that used a lot of chamfers and triangles but after looking at ideal beam theory we realized that a curve would be better. With the added research we put in we created a I beam design with a downward curve.     
+&nbsp;
+
+
+
 
 # Avoidance
 
