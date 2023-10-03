@@ -19,11 +19,12 @@
 this was a CAD assignment where we designed a beam under spesific qualifactions in order to hold the most amount of wieght 
 ### Evidence 
 
- ![png](images/Beam Starter+Holder.png) 
+ ![jpg](images/Beam Starter+Holder.png) 
 
 ### Reflection
 
-chris and Zach looked at the winning design from the previous year as a basis of design. Tomas Slinglove and Nathanial had a disign that used a lot of chamfers and triangles but after looking at ideal beam theory we realized that a curve would be better. With the added research we put in we created a I beam design with a downward curve.     
+chris and Zach looked at the winning design from the previous year as a basis of design. Tomas Slinglove and Nathanial had a disign that used a lot of chamfers and triangles but after looking at ideal beam theory we realized that a curve would be better. With the added research we put in we created a I beam design with a downward curve.   
+here is the link: https://cvilleschools.onshape.com/documents/a0f454c861c2691786377fa6/w/1d6220f831f8dcc8ccb014d1/e/326089d5b23fb66986b4e29d
 &nbsp;
 
 
