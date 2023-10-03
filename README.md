@@ -19,7 +19,7 @@
 this was a CAD assignment where we designed a beam under spesific qualifactions in order to hold the most amount of wieght 
 ### Evidence 
 
- ![png](images/Beam Starter+Holder.png)
+ ![png](images/Beam Starter+Holder.png) 
 
 ### Reflection
 
