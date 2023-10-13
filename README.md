@@ -17,6 +17,11 @@
 ### Assignment Description
 
 this was a CAD assignment where we designed a beam under spesific qualifactions in order to hold the most amount of wieght 
+
+## beam 1
+### Assignment Description
+
+this is the first one and we did it without any FEA
 ### Evidence 
 
  ![png](images/Beam.png) 
@@ -26,6 +31,35 @@ this was a CAD assignment where we designed a beam under spesific qualifactions 
 chris and Zach looked at the winning design from the previous year as a basis of design. Tomas Slinglove and Nathanial had a disign that used a lot of chamfers and triangles but after looking at ideal beam theory we realized that a curve would be better. With the added research we put in we created a I beam design with a downward curve.   
 here is the link: https://cvilleschools.onshape.com/documents/a0f454c861c2691786377fa6/w/1d6220f831f8dcc8ccb014d1/e/326089d5b23fb66986b4e29d
 &nbsp;
+
+## beam 2
+### Assignment Description
+
+this one we designed the beam with the use of FEA.
+### Evidence 
+
+ ![png](images/Beam.png) 
+
+### Reflection
+
+This beam we used what we had found in the perviuos beam and perfect beam theory to greatly odify our old beam. We made the curve of the beam far less and strengthened the mounting area. The FEA seemed to say that we would break at the mounting area first but in reality we broke in the middle. WE also failed by bending past 35mm first so the next one we need to made it more brittle.   
+here is the link: [https://cvilleschools.onshape.com/documents/a0f454c861c2691786377fa6/w/1d6220f831f8dcc8ccb014d1/e/326089d5b23fb66986b4e29d](https://cvilleschools.onshape.com/documents/a0f454c861c2691786377fa6/w/1d6220f831f8dcc8ccb014d1/e/943aaf02dd4e55416d91be8d)
+&nbsp;
+
+## beam 2
+### Assignment Description
+
+this one we designed the beam with the use of FEA after testing our last one
+### Evidence 
+
+ ![png](images/Beam.png) 
+
+### Reflection
+
+This beam we used what we had found in the perviuos beam and perfect beam theory to greatly odify our old beam. We made the curve of the beam far less and strengthened the mounting area. The FEA seemed to say that we would break at the mounting area first but in reality we broke in the middle. WE also failed by bending past 35mm first so the next one we need to made it more brittle.   
+here is the link: [https://cvilleschools.onshape.com/documents/a0f454c861c2691786377fa6/w/1d6220f831f8dcc8ccb014d1/e/326089d5b23fb66986b4e29d](https://cvilleschools.onshape.com/documents/a0f454c861c2691786377fa6/w/1d6220f831f8dcc8ccb014d1/e/943aaf02dd4e55416d91be8d)
+&nbsp;
+
 
 
 
