@@ -38,7 +38,7 @@ here is the link: https://cvilleschools.onshape.com/documents/a0f454c861c2691786
 this one we designed the beam with the use of FEA.
 ### Evidence 
 
- ![png](images/Beam.png) 
+ ![png](images/beam2.png) 
 
 ### Reflection
 
@@ -52,7 +52,7 @@ here is the link: [https://cvilleschools.onshape.com/documents/a0f454c861c269178
 this one we designed the beam with the use of FEA after testing our last one
 ### Evidence 
 
- ![png](images/Beam.png) 
+ ![png](images/beam3.png) 
 
 ### Reflection
 
