@@ -46,7 +46,7 @@ This beam we used what we had found in the perviuos beam and perfect beam theory
 here is the link: [https://cvilleschools.onshape.com/documents/a0f454c861c2691786377fa6/w/1d6220f831f8dcc8ccb014d1/e/326089d5b23fb66986b4e29d](https://cvilleschools.onshape.com/documents/a0f454c861c2691786377fa6/w/1d6220f831f8dcc8ccb014d1/e/943aaf02dd4e55416d91be8d)
 &nbsp;
 
-## beam 2
+## beam 3
 ### Assignment Description
 
 this one we designed the beam with the use of FEA after testing our last one
