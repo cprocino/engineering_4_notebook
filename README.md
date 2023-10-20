@@ -16,8 +16,7 @@
 
 ### Assignment Description
 
-this was a CAD assignment where we designed a beam under spesific qualifactions in order to hold the most amount of wieght 
-
+The first onshape design of the year was part of a contest; design a beam that could support the most weight hanging from one end. The beam used a prebuilt anchor. The beam had to be 180 mm long and have a 12mm hole at the end for the weight to hang from. The design could not use any support material when printing so no part of the design could have an overhang greater than 45 degrees. Our design utilized an I-Beam-like shape that tapered down towards the end of the beam. The I-Beam used 45 rather than 90-degree angles to prevent overhangs. Holes were also created to make sure the beam was under the 13-gram requirement.
 ## beam 1
 ### Assignment Description
 
@@ -28,35 +27,26 @@ this is the first one and we did it without any FEA
 
 ### Reflection
 
-chris and Zach looked at the winning design from the previous year as a basis of design. Tomas Slinglove and Nathanial had a disign that used a lot of chamfers and triangles but after looking at ideal beam theory we realized that a curve would be better. With the added research we put in we created a I beam design with a downward curve.   
+We began by looking at the winning design from the previous year as a basis for our design. Tomas Slinglove and Nathaniel had a design that used a lot of chamfers and triangles but after looking at ideal beam theory we realized that a curve would be better. With a cantilever beam , if a force is applied at the end, the stress of the beam increases as you get farther from the force point. So the beam must taper as it gets closer to the end to account for that. With the added research we put in we created a I-beam design with a downward curve. We also added holes throughout the beam to reduce weight.
 here is the link: https://cvilleschools.onshape.com/documents/a0f454c861c2691786377fa6/w/1d6220f831f8dcc8ccb014d1/e/326089d5b23fb66986b4e29d
 &nbsp;
 
 ## beam 2
 ### Assignment Description
 
-this one we designed the beam with the use of FEA.
+After designing our first beam we used onshapes built-in simulation tools to improve our initial design. After redesigning our beam it was tested and then the process of redesign and testing was repeated an additional time. The FEA simulation was run using a force of 30 newtons for consistent results and the force was applied on the mounting face.
 ### Evidence 
 
  ![png](images/beam2.png) 
 
 ### Reflection
 
-This beam we used what we had found in the perviuos beam and perfect beam theory to greatly odify our old beam. We made the curve of the beam far less and strengthened the mounting area. The FEA seemed to say that we would break at the mounting area first but in reality we broke in the middle. WE also failed by bending past 35mm first so the next one we need to made it more brittle.   
+After running FEA on our original design we found that our I-beam was thicker and stronger than necessary, but the tip of our beam was too weak and would snap off. For this beam, we used what we had found in the previous beam and perfect beam theory to greatly modify our old beam. We made the curve of the beam far less and strengthened the mounting area. The reasoning behind this was to prevent the beam from breaking where it mounts to the anchor block and prevent the tip from breaking off. The FEA seemed to say that we would break at the mounting area first but in reality, we broke in the middle. We also failed by bending past 35mm first so for the next one we need to decrease the displacement.
 here is the link: [https://cvilleschools.onshape.com/documents/a0f454c861c2691786377fa6/w/1d6220f831f8dcc8ccb014d1/e/326089d5b23fb66986b4e29d](https://cvilleschools.onshape.com/documents/a0f454c861c2691786377fa6/w/1d6220f831f8dcc8ccb014d1/e/943aaf02dd4e55416d91be8d)
 &nbsp;
 
-## beam 3
-### Assignment Description
-
-this one we designed the beam with the use of FEA after testing our last one
-### Evidence 
-
- ![png](images/beam3.png) 
-
-### Reflection
-
-This beam we used what we had found in the perviuos beam and perfect beam theory to greatly odify our old beam. We made the curve of the beam far less and strengthened the mounting area. The FEA seemed to say that we would break at the mounting area first but in reality we broke in the middle. WE also failed by bending past 35mm first so the next one we need to made it more brittle.   
+### reflection (in post of test)
+While testing our first beam we found that it broke not only in the middle but also horizontally where the upper I meets the base of the beam. To fix this we added braces connecting the base and top of the beam. Throughout the second design, we struggled to find meaningful ways to decrease the displacement, and going into the test Zach was skeptical about how much our beam had actually improved. The beam ended up holding 4.8 kg before displacing an improvement of 1.3 kg. We think this was due to inaccuracies in the FEA and the fact that Chris loaded the weights faster. This reduced the time the beam was under stress and therefore prevented the beam from gradually growing weaker as small cracks and breaks formed. In conclusion, our beam was very well-designed and strong. We cannot overstate how helpful variables are in designs you are constantly iterating. Use them when you can.
 here is the link: [https://cvilleschools.onshape.com/documents/a0f454c861c2691786377fa6/w/1d6220f831f8dcc8ccb014d1/e/326089d5b23fb66986b4e29d](https://cvilleschools.onshape.com/documents/a0f454c861c2691786377fa6/w/1d6220f831f8dcc8ccb014d1/e/943aaf02dd4e55416d91be8d)
 &nbsp;
 
