@@ -10,6 +10,7 @@
 * [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [Crash Avoidance](#Avoidance)
 * [beam](#beam)
+* [landing_gear](#landing)
 
 &nbsp;
 # beam 
@@ -223,6 +224,21 @@ the final launchpad assignment may have been the easiest as all i needed to do w
 
 
 
+## landing
+
+### Assignment Description
+
+this is a coding assignment that required us to write a function to calculate the area of a triangle base on three points
+### Evidence 
+
+Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+
+
+
+### Code
+[code](raspberry-pi/functions1.py).
+
+### Reflection
 
 
 
