@@ -229,9 +229,7 @@ the final launchpad assignment may have been the easiest as all i needed to do w
 ### Assignment Description
 
 this is a coding assignment that required us to write a function to calculate the area of a triangle base on three points
-### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
 
 
 
@@ -239,6 +237,24 @@ Pictures / Gifs of your work should go here. You need to communicate what your t
 [code](raspberry-pi/functions1.py).
 
 ### Reflection
+this assignment wasn't too bad and only required a few new coding skills. Functions were new to me in circiut python but were not to hard to understand. I need to do more work to write all my code line by line though and not copy paste things from the internet.  
+
+## landing2
+
+### Assignment Description
+
+this is a coding assignment that required us to write a function to calculate the area of a triangle and then put that onto a OLED screen. 
+### Evidence 
+
+Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+
+
+
+### Code
+[code](raspberry-pi/functions2.py).
+
+### Reflection
+This assingment was a bit harder and requiered me to use a few new things and to combine other skills that i had previously learned. The use of the shapes folder and putting a image onto the OLED screen was a little tricky. over all the assignment wasn't to bad and only needed to put a few things together to creat the final project. 
 
 
 
