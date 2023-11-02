@@ -246,7 +246,7 @@ this assignment wasn't too bad and only required a few new coding skills. Functi
 this is a coding assignment that required us to write a function to calculate the area of a triangle and then put that onto a OLED screen. 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+![gif](images/launchpadarea.gif)
 
 
 
