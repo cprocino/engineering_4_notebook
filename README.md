@@ -11,6 +11,7 @@
 * [Crash Avoidance](#Avoidance)
 * [beam](#beam)
 * [landing_gear](#landing)
+* [morsecode](#morsecode)
 
 &nbsp;
 # beam 
@@ -246,7 +247,7 @@ this assignment wasn't too bad and only required a few new coding skills. Functi
 this is a coding assignment that required us to write a function to calculate the area of a triangle and then put that onto a OLED screen. 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+![gif](images/launchpadarea.gif)
 
 
 
@@ -258,6 +259,22 @@ This assingment was a bit harder and requiered me to use a few new things and to
 
 
 
+## morsecode
+
+
+### Assignment Description
+
+this was anj assignment that had us input text and output it as morse code. 
+
+### Evidence 
+
+![gif](images/morsecode.gif)
+
+### Code
+[code](raspberry-pi/morsecode.py).
+
+### Reflection
+this assignment wasn't too bad and only required a few new coding skills. Functions were new to me in circiut python but were not to hard to understand. I need to do more work to write all my code line by line though and not copy paste things from the internet.  
 
 
 
