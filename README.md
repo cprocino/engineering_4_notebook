@@ -291,6 +291,10 @@ this was and assignment that had us input text and output it as morse code and t
 
 ![gif](images/morsecode2.gif)
 
+### wiring 
+ ![png](images/morsecodewire.png) 
+
+
 ### Code
 [code](raspberry-pi/morsecode2.py).
 
