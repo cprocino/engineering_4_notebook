@@ -264,7 +264,7 @@ This assingment was a bit harder and requiered me to use a few new things and to
 
 ### Assignment Description
 
-this was anj assignment that had us input text and output it as morse code. 
+this was and assignment that had us input text and output it as morse code. 
 
 ### Evidence 
 
@@ -277,6 +277,24 @@ this was anj assignment that had us input text and output it as morse code.
 this assignment wasn't too bad and only required a few new coding skills. Functions were new to me in circiut python but were not to hard to understand. I need to do more work to write all my code line by line though and not copy paste things from the internet.  
 
 
+
+
+
+## morsecode 2
+
+
+### Assignment Description
+
+this was and assignment that had us input text and output it as morse code and then have the morse code blink an LED. 
+
+### Evidence 
+
+![gif](images/morsecode2.gif)
+
+### Code
+[code](raspberry-pi/morsecode2.py).
+
+### Reflection
 
 
 
