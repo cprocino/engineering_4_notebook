@@ -12,6 +12,7 @@
 * [beam](#beam)
 * [landing_gear](#landing)
 * [morsecode](#morsecode)
+* [storage](#storage)
 
 &nbsp;
 # beam 
@@ -306,8 +307,25 @@ this assignment was the second in the morsecode siries and it had us make the le
 
 
 
+## storage 
+
+### Assignment Description
+
+This assignment had us do essencialy the same thing as crash avoidence 2 with the added need to have the pico work on storing data localy and creating the boot file that would open on the picos start up. 
+### Evidence 
+ ![jpg](images/storage.jpg)
 
 
+### Wiring
+
+ ![jpg](images/avoidwire2.jpg)
+
+### Code
+[code](raspberry-pi/storage.py).
+
+### Reflection
+
+This was the hardest assignment for me so far, In the begining i understood none of it and had to get a lot of help from mason divers to understand the code and write it in my own way. My main misconseption was that of the Boot.py which took me a while to realize was a seperate file from code.py. In the end the code I had did work and after i got both the boot.py file and the code.py corectly writen all was well. There are still parts of the code that i do not completely understand but i have a rough idea which is enough to complete my goal. 
 
 
 
