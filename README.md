@@ -300,7 +300,7 @@ this was and assignment that had us input text and output it as morse code and t
 
 ### Reflection
 
-
+this assignment was the second in the morsecode siries and it had us make the led blink the values. The coding trick for this one was to transfer the values we had gotten from the first assignment and output them as time on or off for the LED. We got the basic code for that and only needed to transfer that code into the LED which was easy to find on other projects this year.  
 
 
 
