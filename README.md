@@ -313,7 +313,8 @@ this assignment was the second in the morsecode siries and it had us make the le
 
 This assignment had us do essencialy the same thing as crash avoidence 2 with the added need to have the pico work on storing data localy and creating the boot file that would open on the picos start up. 
 ### Evidence 
- ![jpg](images/storage.jpg)
+ ![png](images/storage.png) 
+
 
 
 ### Wiring
