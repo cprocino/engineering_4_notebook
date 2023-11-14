@@ -7,7 +7,6 @@
 
 # Table of Contents
 * [launchpad](#launchpad)
-* [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
 * [Crash Avoidance](#Avoidance)
 * [beam](#beam)
 * [landing_gear](#landing)
