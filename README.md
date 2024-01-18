@@ -274,8 +274,7 @@ this was and assignment that had us input text and output it as morse code.
 [code](raspberry-pi/morsecode.py).
 
 ### Reflection
-this assignment wasn't too bad and only required a few new coding skills. Functions were new to me in circiut python but were not to hard to understand. I need to do more work to write all my code line by line though and not copy paste things from the internet.  
-
+This was a relatively easy assginment that only needed a few new coding skills to acomplish. It could be done entirely on the compulter and didn't need any wiring to set and therefor was easier than many other projects. The translation from text to morse code was easy as wee were given the library. 
 
 
 
