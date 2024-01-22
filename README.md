@@ -337,9 +337,7 @@ This assignment had us take the data from stroage one and plot it onto a graph
 
 
 
-### Wiring
 
- ![jpg](images/avoidwire2.jpg)
 
 ### Code
 [code](raspberry-pi/storage.py).
