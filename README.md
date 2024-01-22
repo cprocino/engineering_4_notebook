@@ -327,6 +327,27 @@ This assignment had us do essencialy the same thing as crash avoidence 2 with th
 This was the hardest assignment for me so far, In the begining i understood none of it and had to get a lot of help from mason divers to understand the code and write it in my own way. My main misconseption was that of the Boot.py which took me a while to realize was a seperate file from code.py. In the end the code I had did work and after i got both the boot.py file and the code.py corectly writen all was well. There are still parts of the code that i do not completely understand but i have a rough idea which is enough to complete my goal. 
 
 
+## storage 2
+
+### Assignment Description
+
+This assignment had us take the data from stroage one and plot it onto a graph
+### Evidence 
+![gif](images/storage.gif)
+
+
+
+### Wiring
+
+ ![jpg](images/avoidwire2.jpg)
+
+### Code
+[code](raspberry-pi/storage.py).
+
+### Reflection
+
+This was a harder assigment than the one before. Trying to plot the data points using code was extremely difficult for me, I got help from a few people but still didnt get the whole picture. In the future when i need to do a very similar project for my rocket i will put much more effort into understanding the prosses and how the arduino uses the code mode and data mode.  
+
 
 
 
